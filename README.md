@@ -2,3 +2,5 @@
 
 # fizz-buzz
 第 2 章 GitHub Actions の機能解説 - ワークフロー設定ファイルの構文
+
+add sentences to let this pipe run for sample. 2024June23
